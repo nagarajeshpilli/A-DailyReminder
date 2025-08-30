@@ -5,6 +5,7 @@ Java project (console-based) called "Daily Reminder App". This app runs every ti
 3.Reads and shows your saved to-do list from a file.
 4.Lets you add new tasks, which are saved for the next run.
 
+open the vscode or any app copy that above code named as A dailyreminder
 
 🧪 How to Run
 - compile and Run
